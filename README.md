@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm Eric Hoffmann, welcome to my GitHub
 
+<i class="devicon-devicon-plain"></i>
 <!--
 **MintzyG/MintzyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
