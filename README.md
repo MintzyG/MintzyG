@@ -2,7 +2,17 @@
 
 <i class="devicon-devicon-plain"></i>
 
+```c++
+#include <iostream>
+using namespace std;
 
+class aboutMe{
+  
+  string name = "Eric";
+  string preferredName = "Erica";
+  string pronouns = "She/Her";
+}
+```
 
 
 <!--
