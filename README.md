@@ -8,7 +8,7 @@ using namespace std;
 
 class aboutMe{
   
-  string name = "Eric";
+  char[] name = "Eric";
   string preferredName = "Erica";
   string pronouns = "She/Her";
 }
