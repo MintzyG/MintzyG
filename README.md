@@ -1,3 +1,4 @@
+<body>
 ### Hi I'm Eric Hoffmann, welcome to my GitHub
 
 <i class="devicon-devicon-plain"></i>
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<\body>
