@@ -1,7 +1,7 @@
 
 ### Hi I'm Eric Hoffmann, welcome to my GitHub
 
-<i class="devicon-devicon-plain"></i>
+<link rel="stylesheet" href="style.css">
 
 ```c++
 #include <iostream>
