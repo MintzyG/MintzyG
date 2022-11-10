@@ -27,10 +27,10 @@ class aboutMe{
 
 
 
-<centrar>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&layout=compact&langs_count=9&theme=midnight-purple">
-</centrar>
+<div class="Stats">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&layout=compact&langs_count=9&theme=midnight-purple">
+</div>
 
 <!--
 **MintzyG/MintzyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
