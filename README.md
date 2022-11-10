@@ -23,8 +23,8 @@ class aboutMe{
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MintzyG&theme=leafy&hide_border=true&background=101010&border=3BDD67&stroke=3BDD67&ring=3BDD67&fire=BF44DD&currStreakNum=3BDD67&sideNums=3BDD67&currStreakLabel=3BDD67&sideLabels=3BDD67&dates=3BDD67)](https://git.io/streak-stats)
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&layout=compact&langs_count=9&theme=midnight-purple">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&layout=compact&langs_count=9&theme=midnight-purple">
 
 
 
