@@ -9,9 +9,13 @@ using namespace std;
 
 class aboutMe{
   
-  char[] name = "Eric";
+  string name = "Eric";
   string preferredName = "Erica";
   string pronouns = "She/Her";
+  int age = 19;
+  
+  cout<<"Hello I'm "<< name <<" but please call me "<< preferrefName << endl;
+  cout<<"I go by "<< pronouns <<" and I am "<< age <<" year old!";
 }
 ```
 
