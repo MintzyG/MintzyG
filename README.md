@@ -1,7 +1,12 @@
 
 ### Hi I'm Eric Hoffmann, welcome to my GitHub
-
-<link rel="stylesheet" href="style.css">
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
 
 ```c++
 #include <iostream>
@@ -41,4 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  </body>
+</html>
