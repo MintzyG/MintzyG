@@ -13,7 +13,7 @@
 #include <string>
 using namespace std;
 
-struct about_me{
+struct About_me{
   
   string name = "Eric";
   string preferredName = "Sophia";
@@ -22,16 +22,16 @@ struct about_me{
   
 }
 
-introduction(about_me&);
+introduction(About_me&);
     
 int main(){
 
-    about_me me;
+    About_me me;
     introduction(me);
     
 }
 
-introdution(const about_me&){
+introdution(const About_me&){
   cout<<"Hello I'm "<< aboutMe.name <<" but please call me "<< aboutMe.preferrefName << endl;
   cout<<"I go by "<< aboutMe.pronouns <<" and I am "<< aboutMe.age <<" years old!";
 }
