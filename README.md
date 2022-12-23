@@ -10,14 +10,13 @@
 
 ```c++
 #include <iostream>
-#include <string>
 using namespace std;
 
 struct About_me{
   
-  string name = "Eric";
-  string preferredName = "Sophia";
-  string pronouns = "She/Her";
+  const char[]* name = "Eric";
+  const char[]* preferredName = "Sophia";
+  const char[]* pronouns = "She/Her";
   int age = 19;
   
 }
