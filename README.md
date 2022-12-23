@@ -30,7 +30,7 @@ int main(){
     
 }
 
-introdution(const About_me&){
+introdution(const About_me& me){
   cout<<"Hello I'm "<< aboutMe.name <<" but please call me "<< aboutMe.preferrefName << endl;
   cout<<"I go by "<< aboutMe.pronouns <<" and I am "<< aboutMe.age <<" years old!";
 }
