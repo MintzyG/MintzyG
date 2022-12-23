@@ -10,17 +10,30 @@
 
 ```c++
 #include <iostream>
+#include <string>
 using namespace std;
 
-class aboutMe{
+struct about_me{
   
   string name = "Eric";
   string preferredName = "Sophia";
   string pronouns = "She/Her";
   int age = 19;
   
-  cout<<"Hello I'm "<< name <<" but please call me "<< preferrefName << endl;
-  cout<<"I go by "<< pronouns <<" and I am "<< age <<" year old!";
+}
+
+introduction(about_me&);
+    
+int main(){
+
+    about_me me;
+    introduction(me);
+    
+}
+
+introdution(const about_me&){
+  cout<<"Hello I'm "<< aboutMe.name <<" but please call me "<< aboutMe.preferrefName << endl;
+  cout<<"I go by "<< aboutMe.pronouns <<" and I am "<< aboutMe.age <<" years old!";
 }
 ```
 
