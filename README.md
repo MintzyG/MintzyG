@@ -15,7 +15,7 @@ using namespace std;
 class aboutMe{
   
   string name = "Eric";
-  string preferredName = "Erica";
+  string preferredName = "Sophia";
   string pronouns = "She/Her";
   int age = 19;
   
