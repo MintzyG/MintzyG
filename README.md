@@ -17,7 +17,7 @@ struct About_me{
   const char[]* name = "Eric";
   const char[]* preferredName = "Sophia";
   const char[]* pronouns = "She/Her";
-  int age = 19;
+  int age = 20;
   
 }
 
