@@ -16,7 +16,8 @@ struct About_me{
   
   const char[]* name = "Eric";
   const char[]* preferredName = "Sophia";
-  const char[]* pronouns = "She/Her";
+  const char[]* pronouns = "Any/All";
+  const char[]* preferredPronouns = "She/Her";
   int age = 20;
   
 }
@@ -31,10 +32,12 @@ int main(){
 }
 
 introdution(const About_me& me){
-  cout<<"Hello I'm "<< aboutMe.name <<" but please call me "<< aboutMe.preferrefName << endl;
-  cout<<"I go by "<< aboutMe.pronouns <<" and I am "<< aboutMe.age <<" years old!";
+  cout<<"Hello I'm "<< me.name <<" but please call me "<< me.preferrefName << endl;
+  cout<<"I go by "<< me.pronouns <<" but prefer "<< me.preferredPronouns <<" and I am "<< me.age <<" years old!";
 }
 ```
+
+- 🌱 I’m currently learning: GOlang 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
@@ -50,7 +53,6 @@ introdution(const About_me& me){
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
