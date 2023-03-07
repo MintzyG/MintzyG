@@ -20,8 +20,6 @@ type Me struct {
     Age int
     Pronouns string
     PreferredPronouns string
-    Hobbies []string
-    
 }
 
 func (m *Me) String() string {
@@ -40,6 +38,8 @@ func main() {
         Pronouns: "Any/All"
         PreferredPronouns: "She/Her"
     }
+    
+    fmt.Println(Sophia)
     
 }
 ```
