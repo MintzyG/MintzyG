@@ -24,7 +24,7 @@ type Me struct {
 
 func (m *Me) String() string {
 
-    fmt.Sprintf("Hi, my name is %v and I am %v years old \n" + 
+    return fmt.Sprintf("Hi, my name is %v and I am %v years old \n" + 
     "But please call me by %v and use %v if its not a problem", m.Name, m.Age, m.PreferredName, m.PreferredPronouns)
     
 }
@@ -32,14 +32,14 @@ func (m *Me) String() string {
 func main() {
 
     Sophia := Me{
-        Name: "Eric"
-        PreferredName: "Sophia"
-        Age: 20
-        Pronouns: "Any/All"
-        PreferredPronouns: "She/Her"
+        Name: "Eric",
+        PreferredName: "Sophia",
+        Age: 20,
+        Pronouns: "Any/All",
+        PreferredPronouns: "She/Her",
     }
     
-    fmt.Println(Sophia)
+    fmt.Println(Sophia.String())
     
 }
 ```
