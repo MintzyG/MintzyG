@@ -8,32 +8,39 @@
   </head>
   <body>
 
-```c++
-#include <iostream>
-using namespace std;
-
-struct About_me{
-  
-  const char[]* name = "Eric";
-  const char[]* preferredName = "Sophia";
-  const char[]* pronouns = "Any/All";
-  const char[]* preferredPronouns = "She/Her";
-  int age = 20;
-  
-}
-
-introduction(About_me&);
+``` go
+package main
     
-int main(){
+import "fmt"
 
-    About_me me;
-    introduction(me);
+type Me struct {
+
+    Name string
+    PreferredName string
+    Age int
+    Pronouns string
+    PreferredPronouns string
+    Hobbies []string
     
 }
 
-introdution(const About_me& me){
-  cout<<"Hello I'm "<< me.name <<" but please call me "<< me.preferrefName << endl;
-  cout<<"I go by "<< me.pronouns <<" but prefer "<< me.preferredPronouns <<" and I am "<< me.age <<" years old!";
+func (m *Me) String() string {
+
+    fmt.Sprintf("Hi, my name is %v and I am %v years old \n" + 
+    "But please call me by %v and use %v if its not a problem", m.Name, m.Age, m.PreferredName, m.PreferredPronouns)
+    
+}
+
+func main() {
+
+    Sophia := Me{
+        Name: "Eric"
+        PreferredName: "Sophia"
+        Age: 20
+        Pronouns: "Any/All"
+        PreferredPronouns: "She/Her"
+    }
+    
 }
 ```
 
