@@ -16,5 +16,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
 </a>
-<br>
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MintzyG&repo=lets-learn&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
