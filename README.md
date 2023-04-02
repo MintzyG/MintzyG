@@ -17,5 +17,6 @@
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
 </a>
 
+<h1 align="center">Projects</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=lets-learn&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=lets-learn&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
