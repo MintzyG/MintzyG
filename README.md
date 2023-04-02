@@ -1,5 +1,6 @@
 
-### Hi I'm Eric Hoffmann, welcome to my GitHub
+### Hi! Welcome to my cozy corner :)
+![](https://komarev.com/ghpvc/?username=MintzyG&label=Profile%20Visits&color=blue&style=for-the-badge)
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8">
