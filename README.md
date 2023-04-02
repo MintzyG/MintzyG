@@ -1,6 +1,9 @@
 
 ### Hi! Welcome to my cozy corner :)
 ![](https://komarev.com/ghpvc/?username=MintzyG&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/MintzyG/)
+
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8">
@@ -8,42 +11,6 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-
-``` go
-package main
-    
-import "fmt"
-
-type Me struct {
-
-    Name string
-    PreferredName string
-    Age int
-    Pronouns string
-    PreferredPronouns string
-}
-
-func (m *Me) String() string {
-
-    return fmt.Sprintf("Hi, my name is %v and I am %v years old \n" + 
-    "But please call me by %v and use %v if its not a problem", m.Name, m.Age, m.PreferredName, m.PreferredPronouns)
-    
-}
-
-func main() {
-
-    Sophia := Me{
-        Name: "Eric",
-        PreferredName: "Sophia",
-        Age: 20,
-        Pronouns: "Any/All",
-        PreferredPronouns: "She/Her",
-    }
-    
-    fmt.Println(Sophia.String())
-    
-}
-```
 
 - 🌱 I’m currently learning: GOlang 
 
