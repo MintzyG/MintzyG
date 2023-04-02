@@ -12,10 +12,11 @@
 - 😄 Pronouns: She/Her
   
 ## 🏳️‍⚧️ Trans rights are human rights! ⚧️
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
 </a>
+</div>
 
 <h1 align="center">Projects</h1>
 
