@@ -7,15 +7,12 @@
 ## Languages
 <img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg"> &nbsp; <img height="40" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg">
 
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-
+- 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
 - 🌱 I’m currently learning: GOlang 
+- 💬 Ask me about: graphics programming, game dev, linux
+- 😄 Pronouns: She/Her
+  
+  🏳️‍⚧️ Trans rights are human rights! ⚧️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
@@ -38,5 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  </body>
-</html>
