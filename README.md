@@ -12,7 +12,7 @@
 - 💬 Ask me about: graphics programming, game dev, linux
 - 😄 Pronouns: She/Her
   
-  🏳️‍⚧️ Trans rights are human rights! ⚧️
+## 🏳️‍⚧️ Trans rights are human rights! ⚧️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
