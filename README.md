@@ -16,4 +16,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=lets-learn&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
