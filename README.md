@@ -10,8 +10,11 @@
 - 🌱 I’m currently learning: GOlang 
 - 💬 Ask me about: graphics programming, game dev, linux
 - 😄 Pronouns: She/Her
+
+<h2 align="center">  
+🏳️‍⚧️ Trans rights are human rights! ⚧️
+</h2>
   
-## 🏳️‍⚧️ Trans rights are human rights! ⚧️
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
@@ -20,5 +23,7 @@
 
 <h1 align="center">Projects</h1>
 
+<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=lets-learn&show_owner=true&theme=midnight-purple)](https://github.com/MintzyG/Lets-Learn) &nbsp; &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple)](https://github.com/MintzyG/babbdi-modding)
+</div>
   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=lets-learn&show_owner=true&theme=midnight-purple)](https://github.com/MintzyG/Lets-Learn) &nbsp; &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple)](https://github.com/MintzyG/babbdi-modding)
