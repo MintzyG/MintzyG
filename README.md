@@ -30,7 +30,9 @@ Languages and tools
   <img height="40" src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67"> 
 </a>
 </div>
+<div align="center">
 Click us ^^
+</div>
 <br>
   
 - 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
