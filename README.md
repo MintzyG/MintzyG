@@ -35,6 +35,10 @@ Languages and tools
 </div>
 <br>
   
+<h1 align="center">
+  About me!
+</h1>
+  
 - 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
 - 🌱 I’m currently learning: GOlang 
 - 💬 Ask me about: graphics programming, game dev, linux
