@@ -8,7 +8,21 @@
 Languages and tools
 </h2>
 <div align="center">
-<img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg"> &nbsp; <img height="40" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg"> &nbsp; <img height="40" src="https://i.imgur.com/FDP8PtQ.png"> &nbsp; <img height="40" src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-512x512-w4ecv3uh.png"> &nbsp; <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> &nbsp; <img height="40" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png"> &nbsp; <img height="40" src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67"> 
+<a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
+  <img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg">
+</a> &nbsp;
+<a href="">  
+  <img height="40" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg"> &nbsp; <img height="40" src="https://i.imgur.com/FDP8PtQ.png">
+</a> &nbsp;
+<a href="">
+  <img height="40" src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-512x512-w4ecv3uh.png"> &nbsp; <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
+</a> &nbsp; 
+<a href="">
+  <img height="40" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png"> 
+</a> &nbsp; 
+<a href="">
+  <img height="40" src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67"> 
+</a>
 </div>
 <br>
   
