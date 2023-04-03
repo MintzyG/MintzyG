@@ -31,7 +31,7 @@ Languages and tools
 </a>
 </div>
 <div align="center">
-Click us ^^
+^^ Click us ^^
 </div>
 <br>
   
