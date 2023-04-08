@@ -55,7 +55,7 @@ Languages and tools
 </div>
 <br>
   
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple)](https://git.io/streak-stats)
+&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple)](https://git.io/streak-stats)
 
 <h1 align="center">Projects</h1>
 
