@@ -48,7 +48,7 @@ Languages and tools
 🏳️‍⚧️ Trans rights are human rights! ⚧️
 </h2>
   
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1661228286900931152/2F7A2F07449D6F5AEDBD47425436D063C6C50559/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Alt text">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4UK-VacVrppny4aGjzhWStSrcsP_6A1UdFvRLCMg&s" alt="Alt text">
   
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
