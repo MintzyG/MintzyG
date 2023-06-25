@@ -14,9 +14,6 @@ Languages and tools
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">  
   <img height="40" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg"> 
 </a> &nbsp;
-<a href="https://go.dev/doc/">
-  <img height="40" src="https://i.imgur.com/FDP8PtQ.png">
-</a> &nbsp;
 <a href="https://neovim.io/">
   <img height="40" src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-512x512-w4ecv3uh.png"> 
 </a> &nbsp; 
