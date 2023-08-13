@@ -50,10 +50,12 @@ Languages and tools
 
 <h1 align="center">Projects</h1>
 
-<div align="center" href="https://github.com/MintzyG/Algebra-Linear">
+<div align="center">
+<a href="https://github.com/MintzyG/Algebra-Linear">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=Algebra-Linear&show_owner=true&theme=midnight-purple">
-</div>
+</a>
 <br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple">
 </div>
+</div>div
