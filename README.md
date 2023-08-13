@@ -46,7 +46,7 @@ Languages and tools
 </h2>
   
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&layout=pie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&layout=pie&theme=midnight-purple">
 </div>
 <br>
 
