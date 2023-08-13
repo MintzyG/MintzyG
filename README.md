@@ -53,6 +53,10 @@ Languages and tools
 
 <h1 align="center">Projects</h1>
 
-&nbsp; &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=lets-learn&show_owner=true&theme=midnight-purple)](https://github.com/MintzyG/Lets-Learn) &nbsp; &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple)](https://github.com/MintzyG/babbdi-modding)
-
-  
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=lets-learn&show_owner=true&theme=midnight-purple">
+</div>
+    
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple">
+</div>
