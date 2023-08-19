@@ -52,7 +52,7 @@ Languages and tools
 
 <div align="center">
   <a href="https://github.com/MintzyG/ToneRemover-OpenCV">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=Algebra-Linear&show_owner=true&theme=midnight-purple">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=ToneRemover-OpenCV&show_owner=true&theme=midnight-purple">
   </a>
 </div>
 <br>
