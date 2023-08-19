@@ -51,7 +51,7 @@ Languages and tools
 <h1 align="center">Projects</h1>
 
 <div align="center">
-  <a href="https://github.com/MintzyG/Algebra-Linear">
+  <a href="https://github.com/MintzyG/ToneRemover-OpenCV">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=Algebra-Linear&show_owner=true&theme=midnight-purple">
   </a>
 </div>
