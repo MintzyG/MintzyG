@@ -34,7 +34,7 @@ Languages and tools
 </h1>
   
 - 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
-- 🌱 I’m currently learning: GOlang 
+- 🌱 I’m currently learning: C++ app distributing
 - 💬 Ask me about: graphics programming, game dev, linux
 - 😄 Pronouns: She/Her
 
