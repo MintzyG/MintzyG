@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=MintzyG&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/MintzyG/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/eric-hoffmann-269132241/) &nbsp; <a href="mailto:ericbraga2000@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+![](https://visitor-badge.glitch.me/badge?page_id=MintzyG.MintzyG)
   
 <h2 align="center">
 Languages and tools
