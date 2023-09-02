@@ -11,7 +11,7 @@
 Languages and tools
 </h2>
 <div align="center">
-<a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
+<a href="https://en.cppreference.com/w/">
   <img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg">
 </a> &nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">  
