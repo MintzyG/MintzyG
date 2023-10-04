@@ -6,11 +6,13 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/MintzyG/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/eric-hoffmann-269132241/) &nbsp; <a href="mailto:ericbraga2000@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-  
 <h2 align="center">
 Languages and tools
 </h2>
 <div align="center">
+<a href="https://en.cppreference.com/w/c">
+  <img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c.svg">
+</a> &nbsp;
 <a href="https://en.cppreference.com/w/">
   <img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg">
 </a> &nbsp;
