@@ -45,6 +45,7 @@ Languages and tools
 - 🌱 I’m currently learning: CMake
 - 💬 Ask me about: graphics programming, game dev, linux
 - 😄 Pronouns: She/Her
+- ❤️ Things I love: Nature, the Sky, Learning, Graphics, Art
 
 <h2 align="center">  
 🏳️‍⚧️ Trans rights are human rights! ⚧️
