@@ -57,7 +57,7 @@ Languages and tools
 <br>
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Favorite Projects</h1>
 
 <div align="center">
   <a href="https://github.com/MintzyG/ToneRemover-OpenCV">
