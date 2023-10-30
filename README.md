@@ -59,14 +59,15 @@ Languages and tools
 
 <h1 align="center">Favorite Projects</h1>
 
+
 <div align="center">
-  <a href="https://github.com/MintzyG/ToneRemover-OpenCV">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=ToneRemover-OpenCV&show_owner=true&theme=midnight-purple">
+  <a href="https://github.com/MintzyG/babbdi-modding">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple">
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/MintzyG/babbdi-modding">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple">
+  <a href="https://github.com/MintzyG/ToneRemover-OpenCV">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=ToneRemover-OpenCV&show_owner=true&theme=midnight-purple">
   </a>
 </div>
