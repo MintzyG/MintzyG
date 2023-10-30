@@ -42,7 +42,7 @@ Languages and tools
 </h1>
   
 - 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
-- 🌱 I’m currently learning: CMake
+- 🌱 I’m currently learning: CMake, GO, Nix
 - 💬 Ask me about: graphics programming, game dev, linux
 - 😄 Pronouns: She/Her
 - ❤️ Things I love: Nature, the Sky, Learning, Graphics, Art
