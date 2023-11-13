@@ -11,7 +11,7 @@ Languages and tools
 </h2>
 <div align="center">
 <a href=https://go.dev/doc/>
-  <img scale="50%" alt="GoLang" src=https://raw.githubusercontent.com/MintzyG/Lets-Learn/main/assets/Gopher.png width="64" height="64">
+  <img alt="GoLang" src=https://raw.githubusercontent.com/MintzyG/Lets-Learn/main/assets/Gopher.png height="40">
 </a>
 <a href="https://en.cppreference.com/w/c">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
