@@ -71,7 +71,7 @@ Languages and tools
 </div>
 
 <div aling="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
 </div>
 
 <h1 align="center">Favorite Projects</h1>
