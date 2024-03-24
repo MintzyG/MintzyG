@@ -68,8 +68,14 @@ Languages and tools
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs">
+</div>
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
 
 <h1 align="center">Favorite Projects</h1>
 
