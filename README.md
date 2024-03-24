@@ -59,13 +59,13 @@ Languages and tools
 
 <details>
   <summary>Github Stats</summary>
-  <center>
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
     <br>
     <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"></img>
     <br>
     <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
-  </center>
+  </p>
 </details>
 
 <details>
