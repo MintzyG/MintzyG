@@ -55,9 +55,6 @@ Languages and tools
 🏳️‍⚧️ Trans rights are human rights! ⚧️
 </h2>
   
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&layout=pie&theme=midnight-purple">
-</div>
 <br>
 
 <div align="center">
@@ -68,7 +65,7 @@ Languages and tools
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=420&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
 </div>
 
 <h1 align="center">Favorite Projects</h1>
