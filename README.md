@@ -70,14 +70,9 @@ Languages and tools
 
 <details>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple">
   </div>
 </details>
-
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
 
 <h1 align="center">Favorite Projects</h1>
 
