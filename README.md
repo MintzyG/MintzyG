@@ -69,6 +69,11 @@ Languages and tools
 </div>
 
 <details>
+  <summary>
+    <h1>
+      Wakatime Stats
+    </h1>
+  </summary>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple">
   </div>
