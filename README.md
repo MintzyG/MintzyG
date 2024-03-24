@@ -57,22 +57,23 @@ Languages and tools
   
 <br>
 
-<div align="center">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=420&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
-</div>
+<details>
+  <summary>Github Stats</summary>
+  <div align="center">
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  </div>
+  
+  <br>
+  
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=420&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
+  </div>
+</details>
 
 <details>
   <summary>
-    <h1>
-      Wakatime Stats
-    </h1>
+    Wakatime Stats
   </summary>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple">
