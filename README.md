@@ -68,6 +68,9 @@ Languages and tools
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">Favorite Projects</h1>
 
 
