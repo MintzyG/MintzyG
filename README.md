@@ -70,8 +70,8 @@ Languages and tools
   <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=420&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG">
+<div aling="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact">
 </div>
 
 <h1 align="center">Favorite Projects</h1>
