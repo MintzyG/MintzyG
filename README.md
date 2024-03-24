@@ -60,9 +60,9 @@ Languages and tools
 </div>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-</a>
+</div>
 
 <h1 align="center">Favorite Projects</h1>
 
