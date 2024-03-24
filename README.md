@@ -67,7 +67,7 @@ Languages and tools
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=460&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
 </div>
 
 <h1 align="center">Favorite Projects</h1>
