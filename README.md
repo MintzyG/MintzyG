@@ -68,9 +68,11 @@ Languages and tools
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs">
-</div>
+<details>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG">
+  </div>
+</details>
 
 <button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
