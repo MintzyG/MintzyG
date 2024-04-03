@@ -60,7 +60,7 @@ Languages and tools
 <details>
   <summary>Github Stats</summary>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple&hide=tex">
     <br>
     <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"></img>
     <br>
