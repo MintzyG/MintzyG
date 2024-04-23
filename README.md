@@ -12,28 +12,28 @@ Languages and tools
 <div align="center">
 <a href=https://go.dev/doc/>
   <img alt="GoLang" src=https://raw.githubusercontent.com/MintzyG/Lets-Learn/main/assets/Gopher.png height="40">
-</a>
+</a> 
 <a href="https://en.cppreference.com/w/c">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-</a> &nbsp;
+</a> 
 <a href="https://en.cppreference.com/w/">
   <img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg">
-</a> &nbsp;
+</a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">  
   <img height="40" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg"> 
-</a> &nbsp;
+</a> 
 <a href="https://neovim.io/">
   <img height="40" src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-512x512-w4ecv3uh.png"> 
-</a> &nbsp; 
+</a> 
 <a href="https://git-scm.com/">
   <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
-</a> &nbsp; 
+</a> 
 <a href="https://www.kernel.org/">
   <img height="40" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png"> 
-</a> &nbsp; 
+</a> 
 <a href="https://nixos.org/">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Nix_snowflake.svg"> 
-</a>
+</a> 
 </div>
 <div align="center">
 ^^ Click us ^^
