@@ -45,7 +45,7 @@ Languages and tools
 </h1>
   
 - 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
-- 🌱 I’m currently learning: GO, Nix
+- 🌱 I’m currently learning: GO, Godot
 - 🗂️ I'm currently working on: SCTI, Post-It
 - 💬 Ask me about: graphics programming, game dev, linux
 - 😄 Pronouns: She/Her
