@@ -1,6 +1,5 @@
-
+## My personal [Website](https://mintzyg.github.io/Cloudy/) **(WIP)**
 ### Hi! Welcome to my cozy corner :)
-### My personal [Website](https://mintzyg.github.io/Cloudy/) **(WIP)**
 ![](https://komarev.com/ghpvc/?username=MintzyG&label=Profile%20Visits&color=blue&style=for-the-badge)
 ![](https://visitor-badge.glitch.me/badge?page_id=MintzyG.MintzyG)
 
