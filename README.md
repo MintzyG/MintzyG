@@ -82,7 +82,7 @@ Languages and tools
 
 <div align="center">
   <a href="https://github.com/MintzyG/babbdi-modding">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=babbdi-modding&show_owner=true&theme=midnight-purple">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=SCTI-2024&show_owner=true&theme=midnight-purple">
   </a>
 </div>
 <br>
