@@ -1,27 +1,18 @@
 <h1 align="center">🏳️‍⚧️ Trans rights are human rights! ⚧️</h1>
-
-
-<div>
-  <h2 align="center">Welcome to my cozy corner</h2>
-  <div align="center">
-    <a href="https://github.com/MintzyG">
-      <img src="https://komarev.com/ghpvc/?username=MintzyG&label=Profile%20Visits&color=blue&style=for-the-badge">
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/MintzyG">
+    <img src="https://komarev.com/ghpvc/?username=MintzyG&label=Profile%20Visits&color=blue&style=for-the-badge">
+  </a>
 </div>
 <h3 align="center">📞 Contact Me</h3>
-
 <div align="center">
   <a href="https://steamcommunity.com/id/MintzyG/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"></a>
   <a href="https://www.linkedin.com/in/eric-hoffmann-269132241/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"></a>
   <a href="mailto:ericbraga2000@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"></a>
 </div>
-
 <div align="center">
   <a href="https://mintzyg.github.io/Cloudy/">My Website</a>
 </div>
-
-
 <h2 align="center">Languages and tools</h2>
 <div align="center">
   <a href=https://go.dev/doc/><img alt="go" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="40"></a>
