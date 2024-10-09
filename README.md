@@ -10,95 +10,85 @@
 Languages and tools
 </h2>
 <div align="center">
-<a href=https://go.dev/doc/>
-  <img alt="GoLang" src=https://raw.githubusercontent.com/MintzyG/Lets-Learn/main/assets/Gopher.png height="40">
-</a> 
-<a href="https://en.cppreference.com/w/c">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-</a> 
-<a href="https://en.cppreference.com/w/">
-  <img height="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg">
-</a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">  
-  <img height="40" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg"> 
-</a> 
-<a href="https://neovim.io/">
-  <img height="40" src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-512x512-w4ecv3uh.png"> 
-</a> 
-<a href="https://git-scm.com/">
-  <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
-</a> 
-<a href="https://www.kernel.org/">
-  <img height="40" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png"> 
-</a> 
-<a href="https://nixos.org/">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Nix_snowflake.svg"> 
-</a> 
+<a href=https://go.dev/doc/><img alt="go" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="40"></a>
+<a href="https://en.cppreference.com/w/c"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></a>
+<a href="https://en.cppreference.com/w/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></a>
+<a href="https://www.java.com/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></a>
+<a href="https://www.python.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
+<a href="https://neovim.io/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg"></a>
+<a href="https://git-scm.com/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a>
+<a href="https://www.kernel.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></a>
+<a href="https://nixos.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nix-Dark.svg"></a>
+<a href="https://archlinux.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg"></a>
 </div>
 <div align="center">
 ^^ Click us ^^
 </div>
+  
+<h2 align="center">👩 About Me!</h2>
+
+<p align="center">
+  <strong>Pronouns:</strong> She/Her <br>
+  <strong>Things I Love:</strong> Nature, the Sky, Learning, Graphics, Art <br>
+  <strong>Ask Me About:</strong> Graphics Programming, Game Development, Linux
+</p>
+
+<h3 align="center">📖 Studies</h3>
+
+<p align="center">
+  🔭 I'm currently studying Computer Science at <strong>Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)</strong> <br>
+  🌱 I’m currently learning: <strong>Go</strong>, Godot
+</p>
+
+<h3 align="center">🔨 Current Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/cciuenf/SCTI-2024">⚙️ SCTI</a> - SCTI-2024 Website <br>
+  <a href="https://github.com/MintzyG/breakfast">🍞 Breakfast</a> - A Productivity App Suite
+</p>
+
+<h3 align="center">🤝 Let’s Collaborate</h3>
+
+<p align="center">
+  Open to working on game development projects, graphics programming, or cool experimental projects!
+</p>
+
+
+<hr>
+
+<h2 align="center">🏳️‍⚧️ Trans rights are human rights! ⚧️</h2>
+
 <br>
-  
-<h2 align="center"> 👩 About me! </h2>
 
-- 😄 Pronouns: She/Her
-- ❤️ Things I love: Nature, the Sky, Learning, Graphics, Art
-- 💬 Ask me about: graphics programming, game dev, linux
-
-<h3 align="center"> 📖 Studies </h3>
-  
-- 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
-- 🌱 I’m currently learning: GO, Godot
-
-<h3 align="center"> 🔨 Current Projects </h3>
-
-- [⚙️ SCTI](https://github.com/cciuenf/SCTI-2024) - SCTI-2024 website
-- [🍞 Breakfast](https://github.com/MintzyG/breakfast) - A productivity app suite .
-
-
-<h3 align="center"> 🤝 Let’s Collaborate </h3>
-<p align="center">Open to working on game development projects, graphics programming, or cool experimental projects! </p>
-
----
-
-<h2 align="center">  
-🏳️‍⚧️ Trans rights are human rights! ⚧️
-</h2>
-  
-<br>
-
-<details>
-  <summary>Github Stats</summary>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=8&layout=compact&theme=midnight-purple&hide=tex">
-    <br>
-    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"></img>
-    <br>
-    <img src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&ring=6DEB89&fire=6DEB89" alt="GitHub Streak" />
-  </p>
-</details>
-
-<details>
-  <summary>
-    Wakatime Stats
-  </summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple">
-  </div>
-</details>
-
-<h1 align="center">Favorite Projects</h1>
-
+<h1 align="center">🌟 Favorite Projects</h1>
 
 <div align="center">
   <a href="https://github.com/MintzyG/babbdi-modding">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=SCTI-2024&show_owner=true&theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=SCTI-2024&show_owner=true&theme=midnight-purple" alt="SCTI-2024">
+  </a>
+  <br><br>
+  <a href="https://github.com/MintzyG/ToneRemover-OpenCV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=ToneRemover-OpenCV&show_owner=true&theme=midnight-purple" alt="Tone Remover">
   </a>
 </div>
-<br>
+
+<h2 align="center">GitHub and Wakatime Stats</h2>
+
 <div align="center">
-  <a href="https://github.com/MintzyG/ToneRemover-OpenCV">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=ToneRemover-OpenCV&show_owner=true&theme=midnight-purple">
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=12&layout=compact&theme=midnight-purple&hide=tex" width="600" height="300">
+      </td>
+      <td rowspan="2">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&ring=6DEB89&fire=6DEB89" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
 </div>
