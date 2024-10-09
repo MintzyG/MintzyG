@@ -1,10 +1,10 @@
 ## My personal [Website](https://mintzyg.github.io/Cloudy/) **(WIP)**
 ### Hi! Welcome to my cozy corner :)
 ![](https://komarev.com/ghpvc/?username=MintzyG&label=Profile%20Visits&color=blue&style=for-the-badge)
-![](https://visitor-badge.glitch.me/badge?page_id=MintzyG.MintzyG)
 
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/MintzyG/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/eric-hoffmann-269132241/) &nbsp; <a href="mailto:ericbraga2000@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/MintzyG/) &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/eric-hoffmann-269132241/) &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:ericbraga2000@gmail.com)
 
 <h2 align="center">
 Languages and tools
@@ -40,16 +40,27 @@ Languages and tools
 </div>
 <br>
   
-<h1 align="center">
-  About me!
-</h1>
+<h2 align="center"> 👩 About me! </h2>
+
+- 😄 Pronouns: She/Her
+- ❤️ Things I love: Nature, the Sky, Learning, Graphics, Art
+- 💬 Ask me about: graphics programming, game dev, linux
+
+<h3 align="center"> 📖 Studies </h3>
   
 - 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
 - 🌱 I’m currently learning: GO, Godot
-- 🗂️ I'm currently working on: SCTI, Post-It
-- 💬 Ask me about: graphics programming, game dev, linux
-- 😄 Pronouns: She/Her
-- ❤️ Things I love: Nature, the Sky, Learning, Graphics, Art
+
+<h3 align="center"> 🔨 Current Projects </h3>
+
+- [⚙️ SCTI](https://github.com/cciuenf/SCTI-2024) - SCTI-2024 website
+- [🍞 Breakfast](https://github.com/MintzyG/breakfast) - A productivity app suite .
+
+
+<h3 align="center"> 🤝 Let’s Collaborate </h3>
+<p align="center">Open to working on game development projects, graphics programming, or cool experimental projects! </p>
+
+---
 
 <h2 align="center">  
 🏳️‍⚧️ Trans rights are human rights! ⚧️
