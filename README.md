@@ -37,29 +37,29 @@
   <a href="https://archlinux.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg"></a>
 </div>
 <div align="center">^^ Click us ^^</div>
-<h2 align="center">👩 About Me!</h2>
-<p align="center">
+<h2>👩 About Me!</h2>
+<p>
   <strong>Pronouns:</strong> She/Her <br>
   <strong>Things I Love:</strong> Nature, the Sky, Learning, Graphics, Art <br>
   <strong>Ask Me About:</strong> Graphics Programming, Game Development, Linux
 </p>
-<h3 align="center">📖 Studies</h3>
-<p align="center">
+<h3>📖 Studies</h3>
+<p>
   🔭 I'm currently studying Computer Science at <strong>Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)</strong> <br>
   🌱 I’m currently learning: <strong>Go</strong>, Godot
 </p>
-<h3 align="center">🔨 Current Projects</h3>
-<p align="center">
+<h3>🔨 Current Projects</h3>
+<p>
   <a href="https://github.com/cciuenf/SCTI-2024">⚙️ SCTI</a> - SCTI-2024 Website <br>
   <a href="https://github.com/MintzyG/breakfast">🍞 Breakfast</a> - A Productivity App Suite
 </p>
-<h3 align="center">🌟 Favorite Projects</h3>
-<p align="center">
+<h3>🌟 Favorite Projects</h3>
+<p>
   <a href="https://github.com/MintzyG/babbdi-modding">🔧 Babbdi Modding</a> - A modding tool for enhanced gameplay <br>
   <a href="https://github.com/MintzyG/ToneRemover-OpenCV">🌈 Tone Remover</a> - An OpenCV project for removing color tones
 </p>
-<h3 align="center">🤝 Let’s Collaborate</h3>
-<p align="center">
+<h3>🤝 Let’s Collaborate</h3>
+<p>
   Open to working on game development projects, graphics programming, or cool experimental projects!
 </p>
 <br>
