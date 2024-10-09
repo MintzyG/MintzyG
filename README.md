@@ -68,10 +68,10 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=10&layout=compact&theme=midnight-purple&hide=tex" width="700" height="200">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=10&layout=compact&theme=midnight-purple&hide=tex" height="200">
       </td>
       <td rowspan="2">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple" width="600">
       </td>
     </tr>
     <tr>
