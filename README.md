@@ -19,7 +19,6 @@
   <a href="https://en.cppreference.com/w/c"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></a>
   <a href="https://en.cppreference.com/w/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></a>
-  <a href="https://www.java.com/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></a>
   <a href="https://www.python.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
   <a href="https://neovim.io/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg"></a>
   <a href="https://git-scm.com/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a>
@@ -41,7 +40,6 @@
 </p>
 <h3>🔨 Current Projects</h3>
 <p>
-  <a href="https://github.com/cciuenf/SCTI-2024">⚙️ SCTI</a> - SCTI-2024 Website <br>
   <a href="https://github.com/MintzyG/breakfast">🍞 Breakfast</a> - A Productivity App Suite
 </p>
 <h3>🌟 Favorite Projects</h3>
