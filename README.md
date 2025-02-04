@@ -36,7 +36,7 @@
 <h3>📖 Studies</h3>
 <p>
   🔭 I'm currently studying Computer Science at <strong>Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)</strong> <br>
-  🌱 I’m currently learning: Godot, Shaders
+  🌱 I’m currently learning: Fluid Simulations
 </p>
 <h3>🔨 Current Projects</h3>
 <p>
