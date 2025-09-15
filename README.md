@@ -53,6 +53,7 @@
 </p>
 <br>
 <h2 align="center">GitHub and Wakatime Stats</h2>
+<h5 align="center">This data is only from my personal github projects</h5>
 <div align="center">
   <a href="https://wakatime.com/@018e7209-8d3b-45dd-be5c-0ad03b75a7aa"><img src="https://wakatime.com/badge/user/018e7209-8d3b-45dd-be5c-0ad03b75a7aa.svg" alt="Total time coded since Mar 24 2024" /></a>
   <table>
