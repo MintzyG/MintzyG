@@ -7,7 +7,7 @@
 <h3 align="center">📞 Contact Me</h3>
 <div align="center">
   <a href="https://steamcommunity.com/id/MintzyG/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"></a>
-  <a href="https://www.linkedin.com/in/eric-hoffmann-269132241/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"></a>
+  <a href="https://www.linkedin.com/in/sophia-hoffmann-%F0%9F%8C%88-269132241/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"></a>
   <a href="mailto:ericbraga2000@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"></a>
 </div>
 <div align="center">
