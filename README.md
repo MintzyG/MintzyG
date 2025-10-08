@@ -13,20 +13,6 @@
 <div align="center">
   <a href="https://mintzyg.github.io/Cloudy/">My Website</a>
 </div>
-<h2 align="center">Languages and tools</h2>
-<div align="center">
-  <a href=https://go.dev/doc/><img alt="go" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="40"></a>
-  <a href="https://en.cppreference.com/w/c"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></a>
-  <a href="https://en.cppreference.com/w/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></a>
-  <a href="https://www.python.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></a>
-  <a href="https://neovim.io/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg"></a>
-  <a href="https://git-scm.com/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a>
-  <a href="https://www.kernel.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></a>
-  <a href="https://nixos.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nix-Dark.svg"></a>
-  <a href="https://archlinux.org/"><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg"></a>
-</div>
-<div align="center">^^ Click us ^^</div>
 <h2>👩 About Me!</h2>
 <p>
   <strong>Pronouns:</strong> She/Her <br>
@@ -51,27 +37,3 @@
 <p>
   Open to working on game development projects, graphics programming, or cool experimental projects!
 </p>
-<br>
-<h2 align="center">GitHub and Wakatime Stats</h2>
-<h5 align="center">This data is only from my personal github projects</h5>
-<div align="center">
-  <a href="https://wakatime.com/@018e7209-8d3b-45dd-be5c-0ad03b75a7aa"><img src="https://wakatime.com/badge/user/018e7209-8d3b-45dd-be5c-0ad03b75a7aa.svg" alt="Total time coded since Mar 24 2024" /></a>
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintzyG&langs_count=10&layout=compact&theme=midnight-purple&hide=tex" height="250">
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MintzyG&layout=compact&theme=midnight-purple&langs_count=20" width="600">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" src="https://streak-stats.demolab.com?user=MintzyG&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&ring=6DEB89&fire=6DEB89" alt="GitHub Streak">
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MintzyG&show_icons=true&theme=midnight-purple&rank_icon=percentile">
-      </td>
-    </tr>
-  </table>
-</div>
