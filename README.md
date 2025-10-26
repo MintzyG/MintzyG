@@ -17,12 +17,12 @@
 <p>
   <strong>Pronouns:</strong> She/Her <br>
   <strong>Things I Love:</strong> Nature, the Sky, Learning, Graphics, Art <br>
-  <strong>Ask Me About:</strong> Graphics Programming, Game Development, Linux
+  <strong>Ask Me About:</strong> Backend Development, Authentication Systems, Graphics Programming, Game Development, Linux
 </p>
 <h3>📖 Studies</h3>
 <p>
   🔭 I'm currently studying Computer Science at <strong>Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)</strong> <br>
-  🌱 I’m currently learning: React
+  🌱 I’m currently learning: Authentication Systems
 </p>
 <h3>🔨 Current Projects</h3>
 <p>
