@@ -27,8 +27,7 @@
   <a href="https://github.com/cciuenf/SCTI-Web">🌐 SCTI Web</a> - Event management plataform built in golang for SCTI 2025 and other UENF events <br>
   <a href="https://github.com/MintzyG/Mint">🌱 Mint Programming Language</a> - A modern programming language focused on DX <br>
   <a href="https://github.com/cciuenf/SCTI-2024">🤖 SCTI 2024</a> - The web app for SCTI 2024 edition <br>
-  <a href="https://github.com/MintzyG/babbdi-modding">🔧 Babbdi Modding</a> - A modding tool for enhanced gameplay <br>
-  <a href="https://github.com/MintzyG/ToneRemover-OpenCV">🌈 Tone Remover</a> - An OpenCV project for removing color tones
+  <a href="https://github.com/MintzyG/ConwaysBitField">🧫 Conways Bit Field</a> - Esoteric conway's game of life implementation for the terminal <br>
 </p>
 <h3>🤝 Let’s Collaborate</h3>
 <p>
