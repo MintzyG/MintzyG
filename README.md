@@ -10,7 +10,7 @@
   ⚙️ I’m currently building: Authentication Systems, Compilers
 </p>
 <hr>
-<h3>🌟 Favorite Projects</h3>
+<h3>🌟 Favorite Public Projects</h3>
 <p>
   <a href="https://github.com/cciuenf/SCTI-Web">🌐 SCTI Web</a> - Event management plataform built in golang for SCTI 2025 and other UENF events <br>
   <a href="https://github.com/MintzyG/Mint">🌱 Mint Programming Language</a> - A modern programming language focused on DX <br>
