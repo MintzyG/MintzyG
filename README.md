@@ -7,7 +7,7 @@
   <strong>Ask Me About:</strong> Backend Development, Authentication Systems, Graphics Programming, Game Development, Linux
 
   🔭 Bachelor in Computer Science at <strong>Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)</strong> <br>
-  ⚙️ I’m currently building: Authentication Systems, Compilers
+  ⚙️ I’m currently building: TrieStack
 </p>
 <hr>
 <h3>🌟 Favorite Public Projects</h3>
