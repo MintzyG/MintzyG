@@ -6,7 +6,7 @@
   <strong>Things I Love:</strong> Nature, the Sky, Learning, Graphics, Art <br>
   <strong>Ask Me About:</strong> Backend Development, Authentication Systems, Graphics Programming, Game Development, Linux
 
-  🔭 Bachelor in Computer Science at <strong>Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)</strong> <br>
+  🔭 Bachelor in Computer Science at <strong>Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF)</strong> <br>
   ⚙️ I’m currently building: TrieStack
 </p>
 <hr>
